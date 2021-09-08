@@ -1,0 +1,33 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: plum;
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background-color: mediumpurple;
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: lavender;
+    font-size: 20px;
+}
+
+.carousel-content {
+    background-color: mediumpurple;
+}
+
+.Car_game {
+    background-color: crimson;
+}
